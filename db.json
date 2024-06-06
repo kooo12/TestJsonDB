@@ -1,0 +1,19 @@
+{
+'standardOptions' : [
+  {
+    "hoping": [
+      {"id": 1, "title": "A long-term relationship"},
+      {"id": 2, "title": "A life partner"},
+      {"id": 3, "title": "Fun, casual dates"},
+      {"id": 4, "title": "Marriage"}
+    ]
+  },
+  {
+    "gender": [
+      {"id": 1, "title": "Man"},
+      {"id": 2, "title": "Woman"},
+      {"id": 3, "title": "Nonbinary"}
+    ]
+  }
+]
+}
